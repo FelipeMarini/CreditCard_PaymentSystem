@@ -1,0 +1,13 @@
+C:\Users\Felipe\OneDrive\Área de Trabalho\CreditCard_PaymentSystem\bin\Debug\netcoreapp3.1\CreditCard_PaymentSystem.exe
+C:\Users\Felipe\OneDrive\Área de Trabalho\CreditCard_PaymentSystem\bin\Debug\netcoreapp3.1\CreditCard_PaymentSystem.deps.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\CreditCard_PaymentSystem\bin\Debug\netcoreapp3.1\CreditCard_PaymentSystem.runtimeconfig.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\CreditCard_PaymentSystem\bin\Debug\netcoreapp3.1\CreditCard_PaymentSystem.runtimeconfig.dev.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\CreditCard_PaymentSystem\bin\Debug\netcoreapp3.1\CreditCard_PaymentSystem.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\CreditCard_PaymentSystem\bin\Debug\netcoreapp3.1\CreditCard_PaymentSystem.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\CreditCard_PaymentSystem\obj\Debug\netcoreapp3.1\CreditCard_PaymentSystem.csprojAssemblyReference.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\CreditCard_PaymentSystem\obj\Debug\netcoreapp3.1\CreditCard_PaymentSystem.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\CreditCard_PaymentSystem\obj\Debug\netcoreapp3.1\CreditCard_PaymentSystem.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Área de Trabalho\CreditCard_PaymentSystem\obj\Debug\netcoreapp3.1\CreditCard_PaymentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\CreditCard_PaymentSystem\obj\Debug\netcoreapp3.1\CreditCard_PaymentSystem.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\CreditCard_PaymentSystem\obj\Debug\netcoreapp3.1\CreditCard_PaymentSystem.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\CreditCard_PaymentSystem\obj\Debug\netcoreapp3.1\CreditCard_PaymentSystem.genruntimeconfig.cache
