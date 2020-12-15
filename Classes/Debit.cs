@@ -15,7 +15,7 @@ namespace CreditCard_PaymentSystem.Classes
         public float Current_Balance { get; set; }
 
 
-        public string Pay(float purchase, float balance_Initial_Debit, float current_Balance)
+        public string PayDebit(float purchase, float balance_Initial_Debit, float current_Balance)
         {
 
             if (purchase < current_Balance)

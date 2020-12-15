@@ -142,13 +142,13 @@ namespace CreditCard_PaymentSystem
                                         Console.WriteLine($"Confirm your purchase of ${purchase}? [1 = yes] [2 = no]\n");
                                         answer2 = int.Parse(Console.ReadLine());
 
-                                    } while (answer2 != 1 || answer2 != 2);
+                                    } while (answer2 != 1 && answer2 != 2);
 
 
                                     if (answer2 == 1)
                                     {
 
-                                        Console.WriteLine(deb.Pay(purchase, deb.Balance_Initial_Debit, deb.Current_Balance));
+                                        Console.WriteLine(deb.PayDebit(purchase, deb.Balance_Initial_Debit, deb.Current_Balance));
 
                                     }
 
@@ -207,7 +207,7 @@ namespace CreditCard_PaymentSystem
                                         Console.WriteLine($"Confirm your purchase of ${purchase}? [1 = yes] [2 = no]\n");
                                         answer2 = int.Parse(Console.ReadLine());
 
-                                    } while (answer2 != 1 || answer2 != 2);
+                                    } while (answer2 != 1 && answer2 != 2);
 
 
                                     if (answer2 == 1)
@@ -224,7 +224,7 @@ namespace CreditCard_PaymentSystem
                                         int k = int.Parse(Console.ReadLine());
 
                                         Console.WriteLine();
-                                        Console.WriteLine(cred.Pay(k, purchase, cred.Limit_Initial_Credit, cred.Current_Limit, cred.i, (int)cred.parcel));
+                                        Console.WriteLine(cred.PayCredit(k, purchase, cred.Limit_Initial_Credit, cred.Current_Limit, cred.i, (int)cred.parcel));
 
                                     }
 
@@ -277,7 +277,7 @@ namespace CreditCard_PaymentSystem
                     case 4:
 
                         Console.WriteLine();
-                        deb.Cancel();
+                        deb.CancelPayment();
                         break;
 
                 }

@@ -17,7 +17,7 @@ namespace CreditCard_PaymentSystem.Classes
         public double parcel;  // value of each parcel (with interest) due to pay each month
 
 
-        public string Pay(float purchase, float limit_Initial_Credit, float current_Limit, float i, double parcel, int k)
+        public string PayCredit(float purchase, float limit_Initial_Credit, float current_Limit, float i, double parcel, int k)
         {
 
 

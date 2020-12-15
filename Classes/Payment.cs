@@ -8,7 +8,7 @@ namespace CreditCard_PaymentSystem.Classes
 
         public DateTime Date { get; set; }
 
-        public string Cancel()
+        public string CancelPayment()
         {
 
             Console.WriteLine();
